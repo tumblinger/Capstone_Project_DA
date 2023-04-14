@@ -1,4 +1,5 @@
 # IBM Data Analyst Capstone Project
+# :star:
 ## Description:
 
 This project is a final part of the IBM Data Analyst Professional Certificate on Coursera. It involved collecting and analyzing survey data from the "2019 Stack Overflow Developer Survey", with the aim of identifying trends and insights in the technology industry. The data was cleaned and visualized using various techniques such as bar charts, heatmaps, hierarchical charts, etc.
@@ -14,4 +15,4 @@ This project is a final part of the IBM Data Analyst Professional Certificate on
 ### Seaborn
 
 ## 
-In addition to the Jupyter Notebook and Python code, I also created a PowerPoint presentation to showcase the project results and insights. The presentation is available in the 'capstone-story-template_F' file of this repository.
+In addition to the **Jupyter Notebook** and **Python** code, I also created a **PowerPoint** presentation to showcase the project results and insights. The presentation is available in the **'capstone-story-template_F'** file of this repository.
